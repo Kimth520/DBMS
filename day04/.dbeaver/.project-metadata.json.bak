@@ -1,0 +1,1 @@
+{"resources":{"Scripts/day04(DML2).sql":{"default-schema":"HR","default-datasource":"oracle_thin-193dc91fe75-6cf51d49ba09acdb"},"Scripts/day04(서브쿼리).sql":{"default-schema":"HR","default-datasource":"oracle_thin-193dc91fe75-6cf51d49ba09acdb"},"Scripts/day04(집계함수).sql":{"default-schema":"HR","default-datasource":"oracle_thin-193dc91fe75-6cf51d49ba09acdb"}}}
